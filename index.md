@@ -9,6 +9,7 @@ Here's a clickable link:[My favorite AI assistant](https://chat.openai.com/)
 ## Images
 
 Images look like links except with an exclamation directly in front
+![image](https://github.com/Tesfamariam100/cintel-01-pages/assets/156039404/b373e647-4a0e-4428-b361-eb2a31352bbd)
 
 ![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
