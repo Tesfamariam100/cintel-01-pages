@@ -1,4 +1,4 @@
-# My Website Title 
+# Datafun consulting
 
 My first website using Markdown and GitHub Pages.
 
