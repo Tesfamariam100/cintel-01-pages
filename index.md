@@ -1,4 +1,4 @@
-# Datafun Consulting
+# Data Consulting 
 
 My first website using Markdown and GitHub Pages.
 
